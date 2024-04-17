@@ -31,7 +31,7 @@
   console.log(button);
   // Define arrays of text content to cycle through
   const headings = ["We are Gnadecs", "We are competent", "We are experienced"];
-  const paragraphs = ["Award winning Construction Company and Civil Engineering Company", "Award winning Construction Company and Real estate Company", "New Paragraph 3"];
+  const paragraphs = ["Award winning Construction and Civil Engineering Company", "Award winning Construction Company and Real estate Company", "New Paragraph 3"];
   
   let currentIndexText = 0;
   
